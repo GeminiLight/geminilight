@@ -1,6 +1,10 @@
-### Hi there 👋
+<a href="https://github.com/drkostas">
+  <img src="https://github-stats-alpha.vercel.app/api?username=geminilight&cc=000&tc=fff&ic=fff&bc=000">
+</a>
 
 <!--
+### Hi there 👋
+
 **GeminiLight/geminilight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
