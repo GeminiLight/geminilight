@@ -8,7 +8,11 @@ My name is [Tianfu Wang](https://tianfuwang.tech/). I am a Ph.D. student at HKUS
 
 **Research internships:** Z.ai (current) · Kimi · Tencent CodeBuddy / WorkBuddy · Microsoft AI / MSRA · JD Explore Academy.
 
-## What I'm working on
+## Research Goal
+
+I seek to answer: *How can we build socially aware AI agents that empower humans to thrive?*
+
+## Research Focus
 
 - **Agent foundations:** shared knowledge and context, human–agent collaboration, and agent workflows.
 - **Learning & creation:** personalized tutoring, social skill practice, and editable artifact creation.
