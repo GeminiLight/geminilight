@@ -4,7 +4,9 @@
 
 [Website](https://tianfuwang.tech/) · [Google Scholar](https://scholar.google.com/citations?user=BYdLtIgAAAAJ) · [Email](mailto:tianfuwang.cs@gmail.com)
 
-My name is Tianfu Wang. I am a Ph.D. student at HKUST(GZ), supervised by Hui Xiong and Nicholas Jing Yuan. I received my M.S. from USTC and am currently a research intern at Z.ai, with previous research internships at Kimi, Tencent CodeBuddy / WorkBuddy, Microsoft AI / MSRA, and JD Explore Academy.
+My name is [Tianfu Wang](https://tianfuwang.tech/). I am a Ph.D. student at HKUST(GZ), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/) and [Dr. Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ). I received my M.S. from USTC.
+
+**Research internships:** Z.ai (current) · Kimi · Tencent CodeBuddy / WorkBuddy · Microsoft AI / MSRA · JD Explore Academy.
 
 ## What I'm working on
 
