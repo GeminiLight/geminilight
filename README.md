@@ -6,12 +6,7 @@
 
 ### Short Bio
 
-My name is [Tianfu Wang](https://tianfuwang.tech/). I am a Ph.D. student at HKUST(GZ), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/) and [Dr. Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ). I received my M.S. from USTC.
-
-### Internship Experience
-
-- **Current:** Research intern at Z.ai.
-- **Previous:** Kimi · Tencent CodeBuddy / WorkBuddy · Microsoft AI / MSRA · JD Explore Academy.
+My name is [Tianfu Wang](https://tianfuwang.tech/). I am a Ph.D. student at HKUST(GZ), supervised by [Prof. Hui Xiong](https://www.hkust-gz.edu.cn/people/hui-xiong/) and [Dr. Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ). I received my M.S. from USTC. I have also worked as a research intern at Z.ai, Kimi, Tencent CodeBuddy / WorkBuddy, Microsoft AI / MSRA, and JD Explore Academy.
 
 ### Research Interests
 
