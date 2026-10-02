@@ -1,20 +1,18 @@
-<a href="https://github.com/geminilight">
-  <img src="https://github-stats-alpha.vercel.app/api?username=geminilight&cc=000&tc=fff&ic=fff&bc=000">
+# Hi, I am Gemini Light (Tianfu Wang)!
+
+**Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source builder**
+
+[Website](https://tianfuwang.tech/) · [Google Scholar](https://scholar.google.com/citations?user=BYdLtIgAAAAJ) · [Email](mailto:tianfuwang.cs@gmail.com)
+
+I am a Ph.D. student at HKUST(GZ), supervised by Hui Xiong and Nicholas Jing Yuan. I received my M.S. from USTC and am currently a research intern at Z.ai, with previous research internships at Kimi, Tencent CodeBuddy / WorkBuddy, Microsoft AI / MSRA, and JD Explore Academy.
+
+## What I'm working on
+
+- **Agent foundations:** shared knowledge and context, human–agent collaboration, and agent workflows.
+- **Learning & creation:** personalized tutoring, social skill practice, and editable artifact creation.
+
+## GitHub stats
+
+<a href="https://github.com/GeminiLight">
+  <img src="https://github-stats-alpha.vercel.app/api?username=geminilight&cc=000&tc=fff&ic=fff&bc=000" alt="GeminiLight's GitHub statistics">
 </a>
-
-<!--
-### Hi there 👋
-
-**GeminiLight/geminilight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
