@@ -32,8 +32,11 @@ I seek to answer: *How can we build socially aware AI agents that empower humans
 
 Recently, I've been working on:
 
-- **Agent foundations:** shared knowledge and context, human–agent collaboration, and agent workflows.
-- **Agentic Application:** personalized tutoring, social skill practice, and editable artifact creation.
+- **Agent Foundations:** shared memory and context, human–agent collaboration, and reusable agent workflows.  
+  Selected work: [MindOS](https://mindos.you/) · [Agentic Consensus](https://arxiv.org/abs/2604.17883) · Kimi K3 (contributor)
+
+- **Agentic Applications:** personalized tutoring, social skill development, and editable artifact creation.  
+  Selected work: [GenMentor](https://tianfuwang.tech/gen-mentor/) *(WWW 2025 · Oral)* · [SocialCoach](https://tianfuwang.tech/SocialCoach/) · [EvoDiagram](https://arxiv.org/abs/2604.09568) *(NeurIPS 2026)*.
 
 I'm happy to discuss research and open-source collaborations in these areas.
 
