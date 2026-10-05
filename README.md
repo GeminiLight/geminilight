@@ -36,7 +36,7 @@ Recently, I've been working on:
   Selected work: [MindOS](https://mindos.you/) · [Agentic Consensus](https://arxiv.org/abs/2604.17883) · [Kimi K3](https://arxiv.org/abs/2607.24653) *(Technical Report · Contributor)*
 
 - **Agentic Applications:** personalized tutoring, social skill development, and editable artifact creation.  
-  Selected work: [GenMentor](https://tianfuwang.tech/gen-mentor/) *(WWW 2025 · Oral)* · [SocialCoach](https://tianfuwang.tech/SocialCoach/) · [EvoDiagram](https://arxiv.org/abs/2604.09568) *(NeurIPS 2026)*.
+  Selected work: [GenMentor](https://tianfuwang.tech/gen-mentor/) *(WWW 2025 · Oral)* · [SocialCoach](https://tianfuwang.tech/SocialCoach/) · [EvoDesign](https://arxiv.org/abs/2604.09568) *(NeurIPS 2026)*.
 
 I'm happy to discuss research and open-source collaborations in these areas.
 
