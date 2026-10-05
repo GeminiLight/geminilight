@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="60" viewBox="0 0 520 60" style="width:100%;height:100%" role="img" aria-labelledby="title description">
-  <title id="title">Hi 👋, I'm Gemini Light / Tianfu Wang</title>
+  <title id="title">Hi 👋 I'm Gemini Light / Tianfu Wang</title>
   <desc id="description">The greeting stays fixed. Gemini Light types in blue, then Tianfu Wang types in purple.</desc>
   <style>
     text { font-family: Menlo, Consolas, "Liberation Mono", monospace; font-size: 28px; font-weight: 600; }
@@ -15,28 +15,28 @@
   </style>
   <defs>
     <clipPath id="gemini-clip">
-      <rect x="195" y="0" width="201.6" height="60">
-        <animate attributeName="width" values="0.00;16.80;33.60;50.40;67.20;84.00;100.80;117.60;134.40;151.20;168.00;184.80;201.60;201.60;184.80;168.00;151.20;134.40;117.60;100.80;84.00;67.20;50.40;33.60;16.80;0.00;0.00" keyTimes="0.000000;0.011667;0.023333;0.035000;0.046667;0.058333;0.070000;0.081667;0.093333;0.105000;0.116667;0.128333;0.140000;0.358333;0.365000;0.371667;0.378333;0.385000;0.391667;0.398333;0.405000;0.411667;0.418333;0.425000;0.431667;0.438333;1.000000" dur="12s" calcMode="discrete" repeatCount="indefinite" />
+      <rect x="178" y="0" width="201.6" height="60">
+        <animate attributeName="width" values="0.00;201.60;201.60;0.00;0.00;0.00" keyTimes="0.000000;0.127500;0.400000;0.467500;0.500000;1.000000" dur="8s" calcMode="linear" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="tianfu-clip">
-      <rect x="195" y="0" width="0" height="60">
-        <animate attributeName="width" values="0.00;0.00;16.80;33.60;50.40;67.20;84.00;100.80;117.60;134.40;151.20;168.00;184.80;184.80;168.00;151.20;134.40;117.60;100.80;84.00;67.20;50.40;33.60;16.80;0.00;0.00" keyTimes="0.000000;0.500000;0.511667;0.523333;0.535000;0.546667;0.558333;0.570000;0.581667;0.593333;0.605000;0.616667;0.628333;0.858333;0.865000;0.871667;0.878333;0.885000;0.891667;0.898333;0.905000;0.911667;0.918333;0.925000;0.931667;1.000000" dur="12s" calcMode="discrete" repeatCount="indefinite" />
+      <rect x="178" y="0" width="0" height="60">
+        <animate attributeName="width" values="0.00;0.00;184.80;184.80;0.00;0.00" keyTimes="0.000000;0.500000;0.616875;0.900000;0.961875;1.000000" dur="8s" calcMode="linear" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
-  <text class="greeting" x="0" y="41" textLength="179" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hi <tspan class="emoji">👋</tspan>, I'm</text>
+  <text class="greeting" x="0" y="41" textLength="162" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Hi <tspan class="emoji">👋</tspan> I'm</text>
   <g class="typewriter">
     <g clip-path="url(#gemini-clip)">
-      <text class="blue" x="195" y="41" textLength="201.6" lengthAdjust="spacingAndGlyphs">Gemini Light</text>
+      <text class="blue" x="178" y="41" textLength="201.6" lengthAdjust="spacingAndGlyphs">Gemini Light</text>
     </g>
     <g clip-path="url(#tianfu-clip)">
-      <text class="purple" x="195" y="41" textLength="184.8" lengthAdjust="spacingAndGlyphs">Tianfu Wang</text>
+      <text class="purple" x="178" y="41" textLength="184.8" lengthAdjust="spacingAndGlyphs">Tianfu Wang</text>
     </g>
-    <rect x="396.6" y="18" width="2" height="28" rx="1" fill="#8b949e">
-      <animate attributeName="x" values="195.00;211.80;228.60;245.40;262.20;279.00;295.80;312.60;329.40;346.20;363.00;379.80;396.60;396.60;379.80;363.00;346.20;329.40;312.60;295.80;279.00;262.20;245.40;228.60;211.80;195.00;195.00;211.80;228.60;245.40;262.20;279.00;295.80;312.60;329.40;346.20;363.00;379.80;379.80;363.00;346.20;329.40;312.60;295.80;279.00;262.20;245.40;228.60;211.80;195.00;195.00" keyTimes="0.000000;0.011667;0.023333;0.035000;0.046667;0.058333;0.070000;0.081667;0.093333;0.105000;0.116667;0.128333;0.140000;0.358333;0.365000;0.371667;0.378333;0.385000;0.391667;0.398333;0.405000;0.411667;0.418333;0.425000;0.431667;0.438333;0.500000;0.511667;0.523333;0.535000;0.546667;0.558333;0.570000;0.581667;0.593333;0.605000;0.616667;0.628333;0.858333;0.865000;0.871667;0.878333;0.885000;0.891667;0.898333;0.905000;0.911667;0.918333;0.925000;0.931667;1.000000" dur="12s" calcMode="discrete" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="0.9s" calcMode="discrete" repeatCount="indefinite" />
+    <rect x="379.6" y="18" width="2" height="28" rx="1" fill="#8b949e">
+      <animate attributeName="x" values="178.00;379.60;379.60;178.00;178.00;362.80;362.80;178.00;178.00" keyTimes="0.000000;0.127500;0.400000;0.467500;0.500000;0.616875;0.900000;0.961875;1.000000" dur="8s" calcMode="linear" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;1;0.2;1" keyTimes="0;0.45;0.7;1" dur="1s" calcMode="linear" repeatCount="indefinite" />
     </rect>
   </g>
-  <text class="reduced-motion blue" x="195" y="41" textLength="201.6" lengthAdjust="spacingAndGlyphs">Gemini Light</text>
+  <text class="reduced-motion blue" x="178" y="41" textLength="201.6" lengthAdjust="spacingAndGlyphs">Gemini Light</text>
 </svg>
