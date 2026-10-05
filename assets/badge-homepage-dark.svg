@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" viewBox="0 0 120 32" role="img" aria-labelledby="title">
+  <title id="title">Home Page</title>
+  <rect width="120" height="32" fill="#1E40AF"/>
+  <g transform="translate(13 7) scale(0.75)" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 10 12 3l9 7M5 9v12h14V9M9 21v-8h6v8"/>
+  </g>
+  <text x="39" y="21" textLength="68" lengthAdjust="spacing" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600">Home Page</text>
+</svg>
