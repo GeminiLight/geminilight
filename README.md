@@ -1,6 +1,6 @@
 <h1>
   <a href="https://tianfuwang.tech/">
-    <img src="assets/name-header.svg" alt="Hi 👋, I'm Gemini Light / Tianfu Wang" width="520" height="60" />
+    <img src="assets/name-header.svg?v=2" alt="Hi 👋 I'm Gemini Light / Tianfu Wang" width="520" height="60" />
   </a>
 </h1>
 
