@@ -13,6 +13,8 @@
   &nbsp;
   <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-scholar-dark.svg?v=2" /><img src="assets/badge-scholar.svg?v=2" alt="Scholar" width="104" height="32" /></picture></a>
   &nbsp;
+  <a href="https://www.zhihu.com/people/gemini_light"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-zhihu-dark.svg?v=2" /><img src="assets/badge-zhihu.svg?v=2" alt="Zhihu" width="96" height="32" /></picture></a>
+  &nbsp;
   <a href="mailto:tianfuwang.cs@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg?v=2" /><img src="assets/badge-email.svg?v=2" alt="Email" width="88" height="32" /></picture></a>
 </p>
 
