@@ -37,8 +37,12 @@ Recently, I've been working on:
 
 I'm happy to discuss research and open-source collaborations in these areas.
 
-### 📊 GitHub stats
+---
 
-<a href="https://github.com/GeminiLight">
-  <img src="https://github-stats-alpha.vercel.app/api?username=geminilight&cc=000&tc=fff&ic=fff&bc=000" alt="GeminiLight's GitHub statistics">
-</a>
+<!-- github-stats:start -->
+<p align="center">
+  <strong>1,751</strong> stars &nbsp; &nbsp; &nbsp;
+  <strong>42</strong> public repos &nbsp; &nbsp; &nbsp;
+  <strong>115</strong> followers
+</p>
+<!-- github-stats:end -->

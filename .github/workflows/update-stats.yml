@@ -1,0 +1,44 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-stats-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Refresh public counters
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_STATS_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/update_stats.py --username "$PROFILE_STATS_OWNER" --readme README.md
+
+      - name: Save changed counters
+        env:
+          PROFILE_STATS_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git add -- README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GitHub stats"
+          git pull --rebase origin "$PROFILE_STATS_BRANCH"
+          git push origin "HEAD:$PROFILE_STATS_BRANCH"
+
