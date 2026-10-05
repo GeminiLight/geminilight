@@ -38,6 +38,14 @@ Recently, I've been working on:
 - **Agentic Applications:** personalized tutoring, social skill development, and editable artifact creation.  
   Selected work: [GenMentor](https://tianfuwang.tech/gen-mentor/) *(WWW 2025 · Oral)* · [SocialCoach](https://tianfuwang.tech/SocialCoach/) · [EvoDesign](https://arxiv.org/abs/2604.09568) *(NeurIPS 2026)*.
 
+Previously, I worked on:
+
+- **Web3 & Financial Intelligence:** NFT market modeling and risk-aware portfolio management.  
+  Selected work: [COMET](https://arxiv.org/abs/2405.10640) *(KDD 2024)* · [MILLION](https://arxiv.org/abs/2412.03038) *(VLDB 2025)*.
+
+- **AI for Combinatorial Optimization:** reinforcement learning for network resource allocation.  
+  Selected work: [Virne](https://arxiv.org/abs/2507.19234) *(ICLR 2026)* · [CONAL](https://arxiv.org/abs/2410.22999) *(ICMLW · Best Paper)* · [FlagVNE](https://arxiv.org/abs/2404.12633) *(IJCAI 2024)*.
+
 I'm happy to discuss research and open-source collaborations in these areas.
 
 ---
