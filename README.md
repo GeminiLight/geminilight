@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong>Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Product Builder</strong>
+  <strong>Ph.D. student @ HKUST(GZ) · Product Builder · Human-centered Agentic AI</strong>
 </p>
 
 <p align="center">
