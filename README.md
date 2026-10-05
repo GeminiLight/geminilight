@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source builder</strong>
+  <strong>Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source Builder</strong>
 </p>
 
 <p align="center">
