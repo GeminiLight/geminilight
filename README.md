@@ -44,7 +44,7 @@ Previously, I worked on:
   Selected work: [COMET](https://arxiv.org/abs/2405.10640) *(KDD 2024)* · [MILLION](https://arxiv.org/abs/2412.03038) *(VLDB 2025)*.
 
 - **AI for Combinatorial Optimization:** reinforcement learning for network resource allocation.  
-  Selected work: [Virne](https://arxiv.org/abs/2507.19234) *(ICLR 2026)* · [CONAL](https://arxiv.org/abs/2410.22999) *(ICMLW · Best Paper)* · [FlagVNE](https://arxiv.org/abs/2404.12633) *(IJCAI 2024)*.
+  Selected work: [Virne](https://arxiv.org/abs/2507.19234) *(ICLR 2026)* · [CONAL](https://arxiv.org/abs/2410.22999) *(ICMLW 2025 · Best Paper)* · [FlagVNE](https://arxiv.org/abs/2404.12633) *(IJCAI 2024)*.
 
 I'm happy to discuss research and open-source collaborations in these areas.
 
