@@ -1,12 +1,16 @@
-<h1>
+<h1 align="center">
   <a href="https://tianfuwang.tech/">
-    <img src="assets/name-header.svg?v=2" alt="Hi 👋 I'm Gemini Light / Tianfu Wang" width="520" height="60" />
+    <img src="assets/name-header.svg?v=3" alt="Hi 👋 I'm Gemini Light / Tianfu Wang" width="400" height="60" />
   </a>
 </h1>
 
-**Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source builder**
+<p align="center">
+  <strong>Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source builder</strong>
+</p>
 
-[Website](https://tianfuwang.tech/) · [Google Scholar](https://scholar.google.com/citations?user=BYdLtIgAAAAJ) · [Email](mailto:tianfuwang.cs@gmail.com)
+<p align="center">
+  <a href="https://tianfuwang.tech/">Website</a> · <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ">Google Scholar</a> · <a href="mailto:tianfuwang.cs@gmail.com">Email</a>
+</p>
 
 ### 🎓 Short Bio
 
