@@ -1,4 +1,8 @@
-# Hi, I am Gemini Light 👋
+<h1>
+  <a href="https://tianfuwang.tech/">
+    <img src="assets/name-header.svg" alt="Hi 👋, I'm Gemini Light / Tianfu Wang" width="520" height="60" />
+  </a>
+</h1>
 
 **Ph.D. student @ HKUST(GZ) · Human-centered Agentic AI · Open-source builder**
 
