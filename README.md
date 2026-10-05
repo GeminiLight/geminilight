@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://tianfuwang.tech/">Website</a> · <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ">Google Scholar</a> · <a href="mailto:tianfuwang.cs@gmail.com">Email</a>
+  <a href="https://tianfuwang.tech/"><img src="assets/badge-homepage.svg" alt="Home Page" width="120" height="32" /></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ"><img src="assets/badge-scholar.svg" alt="Scholar" width="104" height="32" /></a>
+  &nbsp;
+  <a href="mailto:tianfuwang.cs@gmail.com"><img src="assets/badge-email.svg" alt="Email" width="88" height="32" /></a>
 </p>
 
 ### 🎓 Short Bio
