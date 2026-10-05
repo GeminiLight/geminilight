@@ -1,6 +1,10 @@
 <h1 align="center">
   <a href="https://tianfuwang.tech/">
-    <img src="assets/name-header.svg?v=3" alt="Hi 👋 I'm Gemini Light / Tianfu Wang" width="400" height="60" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/name-header-dark.svg?v=4" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/name-header.svg?v=4" />
+      <img src="assets/name-header.svg?v=4" alt="Hi 👋 I'm Gemini Light / Tianfu Wang" width="400" height="60" />
+    </picture>
   </a>
 </h1>
 
@@ -9,13 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://tianfuwang.tech/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-homepage-dark.svg?v=2" /><img src="assets/badge-homepage.svg?v=2" alt="Home Page" width="120" height="32" /></picture></a>
+  <a href="https://tianfuwang.tech/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-homepage-dark.svg?v=4" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-homepage.svg?v=4" /><img src="assets/badge-homepage.svg?v=4" alt="Home Page" width="120" height="32" /></picture></a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-scholar-dark.svg?v=2" /><img src="assets/badge-scholar.svg?v=2" alt="Scholar" width="104" height="32" /></picture></a>
+  <a href="https://scholar.google.com/citations?user=BYdLtIgAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-scholar-dark.svg?v=4" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-scholar.svg?v=4" /><img src="assets/badge-scholar.svg?v=4" alt="Scholar" width="104" height="32" /></picture></a>
   &nbsp;
-  <a href="https://www.zhihu.com/people/gemini_light"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-zhihu-dark.svg?v=3" /><img src="assets/badge-zhihu.svg?v=3" alt="Zhihu" width="96" height="32" /></picture></a>
+  <a href="https://www.zhihu.com/people/gemini_light"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-zhihu-dark.svg?v=4" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-zhihu.svg?v=4" /><img src="assets/badge-zhihu.svg?v=4" alt="Zhihu" width="96" height="32" /></picture></a>
   &nbsp;
-  <a href="mailto:tianfuwang.cs@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg?v=2" /><img src="assets/badge-email.svg?v=2" alt="Email" width="88" height="32" /></picture></a>
+  <a href="mailto:tianfuwang.cs@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg?v=4" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-email.svg?v=4" /><img src="assets/badge-email.svg?v=4" alt="Email" width="88" height="32" /></picture></a>
 </p>
 
 ### 🎓 Short Bio
