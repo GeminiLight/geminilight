@@ -28,7 +28,7 @@ My name is [Tianfu Wang](https://tianfuwang.tech/). I am a Ph.D. student at HKUS
 
 ### 🔬 Research Interests
 
-I seek to answer: *How can we build socially aware AI agents that empower humans to thrive?*
+I seek to answer: *How can AI enrich people’s experiences while empowering them to thrive?*
 
 Recently, I've been working on:
 
