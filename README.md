@@ -52,8 +52,8 @@ I'm happy to discuss research and open-source collaborations in these areas.
 
 <!-- github-stats:start -->
 <p align="center">
-  <strong>2,096</strong> stars &nbsp; &nbsp; &nbsp;
+  <strong>2,099</strong> stars &nbsp; &nbsp; &nbsp;
   <strong>38</strong> public repos &nbsp; &nbsp; &nbsp;
-  <strong>119</strong> followers
+  <strong>120</strong> followers
 </p>
 <!-- github-stats:end -->
